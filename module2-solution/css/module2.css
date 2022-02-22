@@ -9,7 +9,7 @@ h1 {
 }
 
 body {
-  margin: 0;
+  margin: 0 10px 0 10px;
   padding: 0;
 }
 
@@ -20,15 +20,18 @@ p {
 
 .section {
   margin: 10px;
-  border: 1px solid black;
-  background: gray;
+  border: 3px solid black;
+  background: gray;  
 }
 
 .section-header {
   float: right;
-  border: 1px solid black;
+  border: 3px solid black;
   padding: 10px;
   font-size: 1.25em;
+  position: relative;
+  top: -3px;
+  right: -3px;
 }
 
 /* Simple Responsive Framework. */
