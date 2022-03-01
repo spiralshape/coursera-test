@@ -1,0 +1,29 @@
+
+
+#header-nav {
+	background-color: gold;
+	border-color: black;
+	border-radius: 0;
+}
+
+.navbar-header .navbar-brand {
+	font-size: 2em;
+	color: black;
+}
+
+#collapsable-nav {
+	padding: 0;
+}
+
+#nav-list {
+	background-color: pink;
+	margin: 0;
+}
+
+.menu-tile {
+	padding: 10px;
+}
+
+.menu-item {
+	background-color: lightblue;
+}
